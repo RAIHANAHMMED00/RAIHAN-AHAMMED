@@ -1,5 +1,5 @@
 {
-    "notice": "Play 15+ Match In 2nd Id then play Main Id.............",
+    "notice": "Play 15+ Match In play Main Id.............",
     
     "pattern": "FF FF FF FF 00 00 00 00 00 00 00 00 FF FF FF FF ?? ?? ?? ?? 00 00 00 00 00 00 00 00 ?? ?? ?? ?? 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? ?? ?? ?? 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01 01",
     
@@ -52,12 +52,12 @@
     },
     
     "SPEED": {
-        "search": "40 02 2B 07 3D 02 2B 07 3D 02 2B 07 3D 00 00 00",
-        "replace": "40 02 2B 9B 3C 02 2B 9B 3C 02 2B 07 3D 00 00 00"
+        "search": "",
+        "replace": ""
     },
     
     "WALL": {
-        "search": "3F AE 47 81 3F AE 47 81 3F AE 47 81 3F 00",
-        "replace": "3F AE 47 81 3F AE 47 81 BF AE 47 81 3F AE"
+        "search": "",
+        "replace": ""
     }
 }
